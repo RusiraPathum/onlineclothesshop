@@ -1,0 +1,97 @@
+.side-navbar{
+    
+    font-family: sans-serif;
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    
+    
+}
+
+.nav-item{
+    margin-top: 50px;
+    list-style: none;
+    
+}
+
+.side-navbar-item :hover{
+    color: black;
+}
+
+.side-navbar-item{
+    color: black;
+}
+
+
+#navbar ul li{
+    text-align: center;
+    margin-right: 60px;
+       
+}
+
+#header{
+    font-family: serif;
+    color: blue;
+    text-align: center;
+    left: 200px;
+    top: 10px;
+    font-family: Marker Felt, fantasy;
+}
+
+#search-bar{
+    top:65px;
+    left:450px;
+}
+
+#user-icon{
+    top:70px;
+    right:300px;
+}
+
+#signup-icon{
+    top:70px;
+    right:330px;
+}
+
+.icon-bar :hover{
+    color: blue;
+}
+.icon-bar{
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+a{
+    color: gainsboro;
+
+}
+
+#nav{
+    border-bottom: white 3px solid;
+}
+
+.social-link{
+    background-color: black
+}
+
+.page-footer{
+    background-color:gray;
+    top: 1000px;
+    margin-left: 200px;
+}
+
+
+
+#carouselExampleInterval{
+    margin-left: 200px;
+    top: 20px;
+}
+
+#foooter-map{
+    margin-left: -55px
+}
